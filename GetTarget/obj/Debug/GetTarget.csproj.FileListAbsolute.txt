@@ -1,0 +1,11 @@
+C:\GetTarget\obj\Debug\GetTarget.csproj.AssemblyReference.cache
+C:\GetTarget\obj\Debug\GetTarget.csproj.SuggestedBindingRedirects.cache
+C:\GetTarget\obj\Debug\GetTarget.Form1.resources
+C:\GetTarget\obj\Debug\GetTarget.Properties.Resources.resources
+C:\GetTarget\obj\Debug\GetTarget.csproj.GenerateResource.cache
+C:\GetTarget\obj\Debug\GetTarget.csproj.CoreCompileInputs.cache
+C:\GetTarget\bin\Debug\GetTarget.exe.config
+C:\GetTarget\bin\Debug\GetTarget.exe
+C:\GetTarget\bin\Debug\GetTarget.pdb
+C:\GetTarget\obj\Debug\GetTarget.exe
+C:\GetTarget\obj\Debug\GetTarget.pdb
